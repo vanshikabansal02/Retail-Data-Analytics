@@ -144,6 +144,6 @@ pip install pandas numpy matplotlib seaborn sqlalchemy pymysql
 
 ---
 
-## 📬 Contact
+## 📬 Connect
 
 If you have any questions or suggestions, feel free to connect or raise an issue in this repository.
